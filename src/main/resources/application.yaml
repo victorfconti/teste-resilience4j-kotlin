@@ -1,0 +1,4 @@
+resilience4j.retry:
+    instances:
+      foo:
+        maxAttempts: 3
